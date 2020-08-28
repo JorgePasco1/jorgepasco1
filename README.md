@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Page. You can take a look at my repositories to learn more about my work.
 
-- 🔭 I’m currently working on [Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website) and [Machine Learning - Heart Disease Classification](https://github.com/JorgePasco1/heart-disease-classification)
+- 👨‍💻 I’m currently working on [Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website) and [Bulldozer Price Prediction](https://github.com/JorgePasco1/bulldozer-price-prediction)
 
 ---
 
