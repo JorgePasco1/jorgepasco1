@@ -9,6 +9,8 @@ Welcome to my GitHub Page. You can take a look at my repositories to learn more 
   - [Heart Disease Prediction](https://github.com/JorgePasco1/heart-disease-classification)
 ---
 
+Find my projects categorized [here](https://github.com/JorgePasco1/project-tree) 🎯
+
 ### Main Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
