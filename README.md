@@ -2,7 +2,10 @@
 
 Welcome to my GitHub Page. You can take a look at my repositories to learn more about my work.
 
-- 👨‍💻 I’m currently working on [Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website).
+- 👨‍💻 I’m currently working on: 
+  -[Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website).
+  -[Personal Site](https://github.com/JorgePasco1/personal-site)
+  
 - 🚀 Last projects:
   - [natours](https://github.com/JorgePasco1/natours)
   - [Bulldozer Price Prediction](https://github.com/JorgePasco1/bulldozer-price-prediction)
