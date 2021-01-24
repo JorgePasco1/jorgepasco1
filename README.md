@@ -6,7 +6,7 @@ Welcome to my GitHub Page. You can take a look at my repositories to learn more 
   -[Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website).
   -[Personal Site](https://github.com/JorgePasco1/personal-site)
   
-- 🚀 Last projects:
+- 🚀 Latest projects:
   - [natours](https://github.com/JorgePasco1/natours)
   - [Bulldozer Price Prediction](https://github.com/JorgePasco1/bulldozer-price-prediction)
   - [Heart Disease Prediction](https://github.com/JorgePasco1/heart-disease-classification)
