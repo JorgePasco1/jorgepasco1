@@ -4,11 +4,10 @@ Welcome to my GitHub Page. You can take a look at my repositories to learn more 
 
 - 👨‍💻 I’m currently working on: 
   - [Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website).
-  - [Personal Site](https://github.com/JorgePasco1/personal-site)
   
 - 🚀 Latest projects:
+  - [Personal Site](https://github.com/JorgePasco1/personal-site)
   - [natours](https://github.com/JorgePasco1/natours)
-  - [Bulldozer Price Prediction](https://github.com/JorgePasco1/bulldozer-price-prediction)
   - [Heart Disease Prediction](https://github.com/JorgePasco1/heart-disease-classification)
 ---
 
