@@ -4,11 +4,12 @@ Welcome to my GitHub Page. You can take a look at my repositories to learn more 
 
 - 👨‍💻 I’m currently working on: 
   - [Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website).
+  - [Remix Jokes App 🤪](https://github.com/JorgePasco1/remix-jokes-app).
   
 - 🚀 Latest projects:
+  - [IP Address Tracker](https://github.com/JorgePasco1/ip-address-tracker) 
   - [Personal Site](https://github.com/JorgePasco1/personal-site)
   - [natours](https://github.com/JorgePasco1/natours)
-  - [Heart Disease Prediction](https://github.com/JorgePasco1/heart-disease-classification)
 ---
 
 Find my projects categorized [here](https://github.com/JorgePasco1/project-tree) 🎯
