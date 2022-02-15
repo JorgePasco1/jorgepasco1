@@ -7,9 +7,9 @@ Welcome to my GitHub Page. You can take a look at my repositories to learn more 
   - [Remix Jokes App 🤪](https://github.com/JorgePasco1/remix-jokes-app).
   
 - 🚀 Latest projects:
-  - [IP Address Tracker](https://github.com/JorgePasco1/ip-address-tracker) 
-  - [Personal Site](https://github.com/JorgePasco1/personal-site)
-  - [natours](https://github.com/JorgePasco1/natours)
+  - [Wordle Clone](https://github.com/JorgePasco1/wordle-clone)
+  - [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)
+  - [IP Address Tracker](https://github.com/JorgePasco1/ip-address-tracker)
 ---
 
 Find my projects categorized [here](https://github.com/JorgePasco1/project-tree) 🎯
