@@ -3,8 +3,7 @@
 Welcome to my GitHub Page. You can take a look at my repositories to learn more about my work.
 
 - 👨‍💻 I’m currently working on: 
-  - [Baster Escuela de Tenis de Mesa Website](https://github.com/JorgePasco1/baster-escuela-website).
-  - [Remix Jokes App 🤪](https://github.com/JorgePasco1/remix-jokes-app).
+  - [Django Real State App](https://github.com/JorgePasco1/django-real-state).
   
 - 🚀 Latest projects:
   - [Wordle Clone](https://github.com/JorgePasco1/wordle-clone)
