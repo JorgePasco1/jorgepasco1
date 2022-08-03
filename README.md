@@ -3,12 +3,12 @@
 Welcome to my GitHub Page. You can take a look at my repositories to learn more about my work.
 
 - 👨‍💻 I’m currently working on: 
-  - [Django Real State App](https://github.com/JorgePasco1/django-real-state).
+  - Finance Tracker
   
 - 🚀 Latest projects:
+  - [Django Real State App](https://github.com/JorgePasco1/django-real-state)
   - [Wordle Clone](https://github.com/JorgePasco1/wordle-clone)
   - [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)
-  - [IP Address Tracker](https://github.com/JorgePasco1/ip-address-tracker)
 ---
 
 Find my projects categorized [here](https://github.com/JorgePasco1/project-tree) 🎯
