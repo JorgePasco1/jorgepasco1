@@ -3,7 +3,7 @@
 Welcome to my GitHub Page. You can take a look at my repositories to learn more about my work.
 
 - 👨‍💻 I’m currently working on: 
-  - Finance Tracker
+  - [Twitter List Summary](https://github.com/JorgePasco1/twitter-news-summary)
   
 - 🚀 Latest projects:
   - [Django Real State App](https://github.com/JorgePasco1/django-real-state)
