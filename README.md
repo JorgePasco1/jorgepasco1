@@ -10,7 +10,7 @@ I enjoy taking projects from idea → shipped, and keeping the experience polish
 ### 🚀 Latest Projects
 - [Frag Stats](https://github.com/JorgePasco1/frag-stats)
 - [Obsync](https://github.com/JorgePasco1/obsync)
-- [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)]
+- [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)
 
 📂 Find all my projects categorized [here](https://github.com/JorgePasco1/project-tree)
 
