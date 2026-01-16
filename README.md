@@ -8,9 +8,9 @@ I enjoy taking projects from idea → shipped, and keeping the experience polish
 - [Twitter List Summary](https://github.com/JorgePasco1/twitter-news-summary)
 
 ### 🚀 Latest Projects
-- [Django Real State App](https://github.com/JorgePasco1/django-real-state)
-- [Wordle Clone](https://github.com/JorgePasco1/wordle-clone)
-- [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)
+- [Frag Stats](https://github.com/JorgePasco1/frag-stats)
+- [Obsync](https://github.com/JorgePasco1/obsync)
+- [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)]
 
 📂 Find all my projects categorized [here](https://github.com/JorgePasco1/project-tree)
 
@@ -49,4 +49,4 @@ I enjoy taking projects from idea → shipped, and keeping the experience polish
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JorgePasco1&theme=default&hide_border=true)-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JorgePasco1&theme=default&hide_border=true)
