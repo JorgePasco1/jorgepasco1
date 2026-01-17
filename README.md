@@ -5,12 +5,14 @@ I enjoy taking projects from idea → shipped, and keeping the experience polish
 ---
 
 ### 👨‍💻 Currently Working On
-- [Twitter List Summary](https://github.com/JorgePasco1/twitter-news-summary)
+
+- [Tennis Predictions App](https://github.com/JorgePasco1/tennis-predictions) 🎾
+- [Twitter List Summary](https://github.com/JorgePasco1/twitter-news-summary) 📰
 
 ### 🚀 Latest Projects
-- [Frag Stats](https://github.com/JorgePasco1/frag-stats)
-- [Obsync](https://github.com/JorgePasco1/obsync)
-- [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification)
+- [Frag Stats](https://github.com/JorgePasco1/frag-stats) 📈
+- [Obsync](https://github.com/JorgePasco1/obsync) 🔀
+- [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification) 🎵
 
 📂 Find all my projects categorized [here](https://github.com/JorgePasco1/project-tree)
 
