@@ -6,12 +6,13 @@ I enjoy taking projects from idea → shipped, and keeping the experience polish
 
 ### 👨‍💻 Currently Working On
 
-- [Tennis Predictions App](https://github.com/JorgePasco1/tennis-predictions) 🎾
-- [Twitter List Summary](https://github.com/JorgePasco1/twitter-news-summary) 📰
+- [Tennis Predictions App](https://github.com/JorgePasco1/tennis-predictions) 🎾: Make your predictions for tennis tournament and compete against friends.
+- [Twitter List Summary](https://github.com/JorgePasco1/twitter-news-summary) 📰: Get scheduled summaries of the latest AI related news to your telegram.
+- [Auto DB Backups](https://github.com/JorgePasco1/auto-db-backups) 🔏: Scheduled backups for your databases.
 
 ### 🚀 Latest Projects
-- [Frag Stats](https://github.com/JorgePasco1/frag-stats) 📈
-- [Obsync](https://github.com/JorgePasco1/obsync) 🔀
+- [Frag Stats](https://github.com/JorgePasco1/frag-stats) 📈: Keep track of your fragrance usage, and understand your patterns.
+- [Obsync](https://github.com/JorgePasco1/obsync) 🔀: Sync your Obsydian files between devices by leveraing any cloud provider suscription.
 - [Music Genre Classification](https://github.com/JorgePasco1/music-genre-classification) 🎵
 
 📂 Find all my projects categorized [here](https://github.com/JorgePasco1/project-tree)
