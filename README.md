@@ -49,4 +49,4 @@ I enjoy taking projects from idea → shipped, and keeping the experience polish
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JorgePasco1&theme=default&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgePasco1&theme=default)
