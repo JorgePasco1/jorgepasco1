@@ -49,7 +49,3 @@ I enjoy taking projects from idea → shipped, and keeping the experience polish
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgePasco1&theme=default)
